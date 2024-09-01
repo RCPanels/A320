@@ -1,6 +1,6 @@
-Version 1.0.0.1
+Version 1.0.0.2
 COMBO1 1.0.0.0
-COMBO2 1.0.0.1
+COMBO2 1.0.0.2
 Check your internet connection!!!
 Close all applications (CLOSE ALSO Flight Simulator).
 Extract SetUp.zip in a folder as you prefer.
