@@ -1,4 +1,4 @@
-Version 1.0.0.6
+Version 1.0.0.7
 COMBO1 1.0.0.2
 COMBO2 1.0.0.4
 MCDU 1.0.0.1
